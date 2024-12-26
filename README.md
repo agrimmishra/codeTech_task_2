@@ -1,5 +1,12 @@
 # codeTech_task_2
 
+NAME : Agrim Mishra 
+COMPANY : CodeTech IT solutions 
+ID : CT08DS316 
+DOMAIN : POWER BI 
+DURATION : DECEMBER(2024) TO JANUARY(2025) 
+MENTOR : NEELA KUMAR SANTOSH 
+this is my Second task for my code tech internship
 
 
 **HR Analytics Dashboard**
