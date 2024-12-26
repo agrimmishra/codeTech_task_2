@@ -73,3 +73,9 @@ This project is licensed under the MIT License.
 Dataset sourced from hypothetical HR analytics data.
 Visualizations inspired by modern HR practices.
 this is my Second task for my code tech internship
+
+![image](https://github.com/user-attachments/assets/d5fefb6c-557c-4347-8286-1db62c1f6d5e)
+
+
+
+
